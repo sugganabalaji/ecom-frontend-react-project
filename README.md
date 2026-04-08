@@ -1,4 +1,4 @@
-# 🛒 React.js E-Commerce Project
+# 🛒 ecom-products-react-ui is a React.js E-Commerce Project maintains Products Details
 
 A modern e-commerce web application built with **React.js**. This project demonstrates a scalable frontend setup with support for product listings, cart management, and responsive UI.
 
