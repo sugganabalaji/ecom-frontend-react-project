@@ -127,7 +127,10 @@ const Product = () => {
                 {product.stockQuantity}
               </i>
             </h6>
-          
+            {/* <p className="release-date">
+              <h6>Product listed on:</h6>
+              <i>{product.releaseDate}</i>
+            </p> */}
           </div>
           <div className="update-button" style={{ display: "flex", gap: "1rem" }}>
             <button
